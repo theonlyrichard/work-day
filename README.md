@@ -24,4 +24,4 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-## DEPLOYED LINK ON GITHUB PAGES : [https://github.com/theonlyrichard/work-day]
+## DEPLOYED LINK ON GITHUB PAGES : [https://theonlyrichard.github.io/work-day/]git
